@@ -15,7 +15,7 @@ master.configure(bg="black")
 
 master.bind("<Escape>", lambda e: master.destroy())
 
-
+print("hello world")
 
 form_frame = Frame(master,bg="black")
 instruction_frame = Frame(master, bg="black")
